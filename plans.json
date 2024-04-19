@@ -78,21 +78,21 @@
       "ticketDate": "Tuesday, 12th February 2024",
       "productsList": [
         {
-          "name": "7 Days Running Bets",
+          "name": "CS 1",
           "amount": "Ksh 100",
-          "id": "seven_days_running_bets",
+          "id": "correct_score_one",
           "odds": "100"
         },
         {
-          "name": "14 Days Running Bets",
+          "name": "CS 2",
           "amount": "Ksh 100",
-          "id": "fourteen_days_running_bets",
+          "id": "correct_score_two",
           "odds": "200"
         },
         {
-          "name": "30 Days Running Bets",
+          "name": "CS 3",
           "amount": "Ksh 100",
-          "id": "thirty_days_running_bets",
+          "id": "correct_score_three",
           "odds": "400"
         }
       ]

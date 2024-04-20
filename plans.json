@@ -50,25 +50,25 @@
           "name": "SportPesa Mega Jackpot",
           "amount": "Ksh 100",
           "id": "sportpesa_mega_jackpot",
-          "odds": "Guaranteed Jackpot Bonus Win"
+          "odds": "244.50"
         },
         {
           "name": "SportPesa Mid Week Jackpot",
           "amount": "Ksh 100",
           "id": "sportpesa_mid_week_jackpot",
-          "odds": "Guaranteed Jackpot Bonus Win"
+          "odds": "244.50"
         },
         {
           "name": "Betika Jackpot",
           "amount": "Ksh 100",
           "id": "betika_jackpot",
-          "odds": "Guaranteed Jackpot Bonus Win"
+          "odds": "244.50"
         },
         {
           "name": "Mozzart Jackpot",
           "amount": "Ksh 100",
           "id": "mozzart_jackpot",
-          "odds": "Guaranteed Jackpot Bonus Win"
+          "odds": "244.50"
         }
       ]
     },

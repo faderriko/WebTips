@@ -221,5 +221,73 @@
       "prediction": "Away Win",
       "date": "13/02/2024"
     }
+  ],
+  "three_plus_odds": [
+    {
+      "fixture": "Birmingham-:-Blackburn Rovers",
+      "prediction": "X",
+      "date": "13/02/2024"
+    },
+    {
+      "fixture": "Norwich-:-Watford",
+      "prediction": "Over 2.5",
+      "date": "13/02/2024"
+    },
+    {
+      "fixture": "Swansea-:-Leeds United",
+      "prediction": "Away Win",
+      "date": "13/02/2024"
+    }
+  ],
+  "six_plus_odds": [
+    {
+      "fixture": "Birmingham-:-Blackburn Rovers",
+      "prediction": "X",
+      "date": "13/02/2024"
+    },
+    {
+      "fixture": "Norwich-:-Watford",
+      "prediction": "Over 2.5",
+      "date": "13/02/2024"
+    },
+    {
+      "fixture": "Swansea-:-Leeds United",
+      "prediction": "Away Win",
+      "date": "13/02/2024"
+    }
+  ],
+  "nine_plus_odds": [
+    {
+      "fixture": "Birmingham-:-Blackburn Rovers",
+      "prediction": "X",
+      "date": "13/02/2024"
+    },
+    {
+      "fixture": "Norwich-:-Watford",
+      "prediction": "Over 2.5",
+      "date": "13/02/2024"
+    },
+    {
+      "fixture": "Swansea-:-Leeds United",
+      "prediction": "Away Win",
+      "date": "13/02/2024"
+    }
+  ],
+  "fifteen_plus_odds": [
+    {
+      "fixture": "Birmingham-:-Blackburn Rovers",
+      "prediction": "X",
+      "date": "13/02/2024"
+    },
+    {
+      "fixture": "Norwich-:-Watford",
+      "prediction": "Over 2.5",
+      "date": "13/02/2024"
+    },
+    {
+      "fixture": "Swansea-:-Leeds United",
+      "prediction": "Away Win",
+      "date": "13/02/2024"
+    }
   ]
 }

@@ -121,6 +121,37 @@
           "odds": "400"
         }
       ]
+    },
+    {
+      "name": "MULTIBETS",
+      "ticketNumber": "Ticket 4",
+      "ticketDate": "Tuesday, 12th February 2024",
+      "productsList": [
+        {
+          "name": "3+ Odds",
+          "amount": "Ksh 100",
+          "id": "three_plus_odds",
+          "odds": "100"
+        },
+        {
+          "name": "6+ Odds",
+          "amount": "Ksh 100",
+          "id": "six_plus_odds",
+          "odds": "100"
+        },
+        {
+          "name": "9+ Odds",
+          "amount": "Ksh 100",
+          "id": "nine_plus_odds",
+          "odds": "100"
+        },
+        {
+          "name": "15+ Odds",
+          "amount": "Ksh 100",
+          "id": "fifteen_plus_odds",
+          "odds": "100"
+        }
+      ]
     }
   ]
 }
